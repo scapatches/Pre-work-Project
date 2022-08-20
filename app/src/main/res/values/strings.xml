@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="change_text_color">Change Text Color</string>
+    <string name="hello_world_from_maria">Hello World from Maria!</string>
+</resources>
