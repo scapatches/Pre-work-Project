@@ -9,7 +9,7 @@ You click a button it changes the color of the text.
 ### App Walk-though
 
 
-<img src="file:///D:/Maria/Downloads/6qkwi7.gif" width=200><br>
+![](https://i.imgur.com/IfGOUlv.gif)
 
 
 ### Required User Stories
